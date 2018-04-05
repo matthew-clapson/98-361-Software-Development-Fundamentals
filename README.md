@@ -32,3 +32,7 @@ Learn
 Discuss the concepts of software developments that all developers need to know.
 Prerequisites
 None
+
+Time requirements, modules and assessments for this course:
+4 hours* 7 modules 7 assessment
+*Excluding labs, knowledge checks and assessments.
